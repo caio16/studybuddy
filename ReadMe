@@ -1,0 +1,9 @@
+Use on terminal:
+
+pip install pillow
+pip install customtkinter
+pip install tkinter
+pip install reportlab
+pip install matplotlib
+
+Or Just execute main.exe on folder
